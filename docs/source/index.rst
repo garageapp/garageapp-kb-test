@@ -3,7 +3,7 @@
 GarageApp - Knowledge Base
 ==========================
 
-:kb: kb1
+kb: kb1
 
 Contents
 --------
