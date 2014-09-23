@@ -3,7 +3,7 @@
 GarageApp - Knowledge Base
 ==========================
 
-``#kb1``
+``#kb_d1`` ``#kb_d2``
 
 Contents
 --------
