@@ -11,37 +11,12 @@ GarageApp - Γνωσιακή Βάση
 -----------
 
 .. toctree::
-   :maxdepth: 3
+   :numbered:
 
-   customers/index.rst
-   vehicles/index.rst
-   services/index.rst
-   revenues_expenses/index.rst
-   analytics/index.rst
-   settings/index.rst
-
-Είσοδος στην εφαρμογή
----------------------
-
-``#kb_Login``
-
-Για να συνδεθείτε (login) στην εφαρμογή θα πρέπει πρώτα να πιστοποιήσετε τα στοιχεία σας.
-Πιστοποίηση στοιχείων σημαίνει μόνο πιστοποίηση του email σας,
-η οποία πιστοποίηση πραγματοποιείται από την υπηρεσία `Mozilla Persona <https://login.persona.org/about>`_ με τρόπο απλό και ασφαλή.
-
-.. figure:: _static/images/app-signin.png
-
-Έξοδος από την εφαρμογή
------------------------
-
-``#kb_Logout``
-
-Η αποσύνδεση (logout) από την εφαρμογή γίνεται σε 2 σύντομα βήματα.
-
-- Πατάμε "Αποσύνδεση" στη κεντρική οθόνη
-
-.. figure:: _static/images/app-signout.png
-
-- Και τέλος πατάμε "Έξοδος"
-
-.. figure:: _static/images/app-signout-exit.png
+   signin-signout
+   customers/index
+   vehicles/index
+   services/index
+   revenues_expenses/index
+   analytics/index
+   settings/index

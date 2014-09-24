@@ -11,6 +11,6 @@ TODO
 
 .. toctree::
 
-   services.rst
-   attributes.rst
-   remarks.rst
+   services
+   attributes
+   remarks
