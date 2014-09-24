@@ -1,5 +1,5 @@
 Ιδιότητες
 =========
 
-``#kb_AddEditVehicleProperty`` ``#kb_ViewVehicleProperty``
+:λέξεις κλειδιά: ``kb_AddEditVehicleProperty`` ``kb_ViewVehicleProperty``
 

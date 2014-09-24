@@ -1,7 +1,7 @@
 Οχήματα
 =======
 
-``#kb_AddEditCustomerVehicle_vehicle`` ``#kb_ViewCustomerVehicle_vehicle``
+:λέξεις κλειδιά: ``kb_AddEditCustomerVehicle_vehicle`` ``kb_ViewCustomerVehicle_vehicle``
 
 TODO
 

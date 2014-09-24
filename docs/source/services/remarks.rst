@@ -1,5 +1,5 @@
 Παρατηρήσεις
 ============
 
-``#kb_AddEditVehicleServiceRemark`` ``#kb_ViewVehicleServiceRemark``
+:λέξεις κλειδιά: ``kb_AddEditVehicleServiceRemark`` ``kb_ViewVehicleServiceRemark``
 

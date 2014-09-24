@@ -1,5 +1,5 @@
 Ιδιότητες
 =========
 
-``#kb_AddEditCustomerProperty`` ``#kb_ViewCustomerProperty``
+:λέξεις κλειδιά: ``kb_AddEditCustomerProperty`` ``kb_ViewCustomerProperty``
 

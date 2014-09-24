@@ -1,5 +1,5 @@
 Παρατηρήσεις
 ============
 
-``#kb_AddEditCustomerRemark`` ``#kb_ViewCustomerRemark``
+:λέξεις κλειδιά: ``kb_AddEditCustomerRemark`` ``kb_ViewCustomerRemark``
 

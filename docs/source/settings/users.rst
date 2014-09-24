@@ -1,5 +1,5 @@
 Χρήστες
 =======
 
-``#kb_AddEditTenantUser`` ``#kb_Settings_users``
+:λέξεις κλειδιά: ``kb_AddEditTenantUser`` ``kb_Settings_users``
 

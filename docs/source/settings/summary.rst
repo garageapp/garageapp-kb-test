@@ -1,5 +1,5 @@
 Σύνοψη
 ======
 
-``#kb_Settings_summary``
+:λέξεις κλειδιά: ``kb_Settings_summary``
 

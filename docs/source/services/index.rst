@@ -1,7 +1,7 @@
 Εργασίες
 ========
 
-``#kb_AddEditVehicleService`` ``#kb_ViewVehicleService``
+:λέξεις κλειδιά: ``kb_AddEditVehicleService`` ``kb_ViewVehicleService``
 
 TODO
 

@@ -1,5 +1,5 @@
 Εργασίες
 ========
 
-``#kb_ViewCustomer_services``
+:λέξεις κλειδιά: ``kb_ViewCustomer_services``
 
