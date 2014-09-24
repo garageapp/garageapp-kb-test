@@ -13,10 +13,10 @@ GarageApp - Γνωσιακή Βάση
 .. toctree::
    :numbered:
 
-   signin-signout
-   customers/index
-   vehicles/index
-   services/index
-   revenues_expenses/index
-   analytics/index
-   settings/index
+   signin-signout.rst
+   customers/index.rst
+   vehicles/index.rst
+   services/index.rst
+   revenues_expenses/index.rst
+   analytics/index.rst
+   settings/index.rst

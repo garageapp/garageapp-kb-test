@@ -9,7 +9,7 @@ TODO
 
 .. toctree::
 
-   summary
-   users
-   attribute_types
-   language
+   summary.rst
+   users.rst
+   attribute_types.rst
+   language.rst

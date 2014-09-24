@@ -11,5 +11,5 @@ TODO
 
 .. toctree::
 
-   attributes
-   remarks
+   attributes.rst
+   remarks.rst

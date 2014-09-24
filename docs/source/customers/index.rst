@@ -11,8 +11,8 @@ TODO
 
 .. toctree::
 
-   vehicles
-   services
-   attributes
-   remarks
+   vehicles.rst
+   services.rst
+   attributes.rst
+   remarks.rst
 
