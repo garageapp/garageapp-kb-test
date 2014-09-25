@@ -11,6 +11,8 @@
 
 .. warning:: TODO
 
+.. _create_vehicle_service:
+
 Δημιουργία
 ----------
 
