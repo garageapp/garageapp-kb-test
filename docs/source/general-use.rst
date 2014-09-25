@@ -13,7 +13,7 @@
 η οποία πιστοποίηση πραγματοποιείται από την υπηρεσία
 `Mozilla Persona <https://login.persona.org/about>`_ με τρόπο απλό και ασφαλή.
 
-.. figure:: _static/images/app-signin.png
+.. figure:: /_static/images/app-signin.png
 
 Έξοδος από την εφαρμογή
 -----------------------
@@ -24,11 +24,11 @@
 
 - Πατάμε "Αποσύνδεση" στη κεντρική οθόνη
 
-.. figure:: _static/images/app-signout.png
+.. figure:: /_static/images/app-signout.png
 
 - Και τέλος πατάμε "Έξοδος"
 
-.. figure:: _static/images/app-signout-exit.png
+.. figure:: /_static/images/app-signout-exit.png
 
 Κεντρικό μενού
 --------------
@@ -36,7 +36,7 @@
 Σε κάθε οθόνη επάνω-αριστερά είναι διαθέσιμο το κεντρικό μενού της εφαρμογής.
 Πατώντας πάνω σε αυτό μπορείτε άμεσα να περιηγηθείτε στην εφαρμογή.
 
-.. figure:: _static/images/screen-mainmenu.png
+.. figure:: /_static/images/screen-mainmenu.png
 
 Αναζήτηση
 ---------
@@ -45,7 +45,7 @@
 για να περιορίσετε τα δεδομένα που σας εμφανίζονται, με άλλα λόγια,
 για να εντοπίσετε αυτό που θέλετε γρήγορα.
 
-.. figure:: _static/images/screen-searchfield.png
+.. figure:: /_static/images/screen-searchfield.png
 
 Μπορείτε να εισάγετε τις λέξεις που ψάχνετε χωρισμένες με κενό.
 Η αναζήτηση θα προσπαθήσει να εντοπίσει με τον καλύτερο τρόπο

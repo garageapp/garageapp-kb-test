@@ -26,12 +26,12 @@ TODO
 TODO
 
 
-----
-
-.. rubric:: Δείτε επίσης
+Στοιχεία οχήματος
+-----------------
 
 .. toctree::
 
-    services.rst
     attributes.rst
     remarks.rst
+    services.rst
+    
