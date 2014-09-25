@@ -24,13 +24,39 @@
 
 .. figure:: /_static/images/screen-add-entitydetails-options-buttons-attribute.png
 
+Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
+της αποθήκευσης για να καταχωρίσετε την εγγραφή
+ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
+
+.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
+
 Επεξεργασία
 -----------
 
-.. warning:: TODO
+Για να επεξεργαστείτε κάποια ιδιότητα πατήστε πάνω της
+
+.. figure:: /_static/images/screen-customers-attributes-view-select.png
+
+.. warning:: TODO: να γίνει περιγραφή στα πεδία.
+
+Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
+της αποθήκευσης για να καταχωρίσετε τις αλλαγές
+ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
+
+.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
 
 Διαγραφή
 --------
 
-.. warning:: TODO
+Για να διαγράψετε κάποια ιδιότητα πατήστε πάνω της
+
+.. figure:: /_static/images/screen-customers-attributes-view-select.png
+
+Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
+
+.. figure:: /_static/images/screen-edit-entity-button.png
+
+και επιλέξτε να κάνετε "Διαγραφή" της καταχώρισης.
+
+.. figure:: /_static/images/screen-edit-delete-entity-option-button.png
 
