@@ -1,7 +1,9 @@
 Οχήματα
 =======
 
-:λέξεις κλειδιά: ``kb_AddEditCustomerVehicle_vehicle`` ``kb_ViewCustomerVehicle_vehicle``
+:λέξεις κλειδιά:
+    ``kb_AddEditCustomerVehicle_vehicle``
+    ``kb_ViewCustomerVehicle_vehicle``
 
 TODO
 
@@ -11,6 +13,6 @@ TODO
 
 .. toctree::
 
-   services.rst
-   attributes.rst
-   remarks.rst
+    services.rst
+    attributes.rst
+    remarks.rst

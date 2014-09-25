@@ -1,5 +1,7 @@
 Ιδιότητες
 =========
 
-:λέξεις κλειδιά: ``kb_AddEditVehicleServiceProperty`` ``kb_ViewVehicleServiceProperty``
+:λέξεις κλειδιά:
+    ``kb_AddEditVehicleServiceProperty``
+    ``kb_ViewVehicleServiceProperty``
 

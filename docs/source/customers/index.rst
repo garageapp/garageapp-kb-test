@@ -1,7 +1,10 @@
 Πελάτες
 =======
 
-:λέξεις κλειδιά: ``kb_AddEditCustomer_customers`` ``kb_BrowseCustomers`` ``kb_ViewCustomer_customers``
+:λέξεις κλειδιά:
+    ``kb_AddEditCustomer_customers``
+    ``kb_BrowseCustomers``
+    ``kb_ViewCustomer_customers``
 
 TODO
 
@@ -11,8 +14,8 @@ TODO
 
 .. toctree::
 
-   vehicles.rst
-   services.rst
-   attributes.rst
-   remarks.rst
+    vehicles.rst
+    services.rst
+    attributes.rst
+    remarks.rst
 

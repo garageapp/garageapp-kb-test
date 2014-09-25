@@ -1,7 +1,9 @@
 Εργασίες
 ========
 
-:λέξεις κλειδιά: ``kb_AddEditVehicleService`` ``kb_ViewVehicleService``
+:λέξεις κλειδιά:
+    ``kb_AddEditVehicleService``
+    ``kb_ViewVehicleService``
 
 TODO
 
@@ -11,5 +13,5 @@ TODO
 
 .. toctree::
 
-   attributes.rst
-   remarks.rst
+    attributes.rst
+    remarks.rst

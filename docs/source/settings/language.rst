@@ -1,5 +1,6 @@
 Γλώσσα
 ======
 
-:λέξεις κλειδιά: ``kb_Settings_languages``
+:λέξεις κλειδιά:
+    ``kb_Settings_languages``
 
