@@ -6,7 +6,27 @@
     ``kb_BrowseCustomers``
     ``kb_ViewCustomer_customers``
 
+Προβολή
+-------
+
 TODO
+
+Δημιουργία
+----------
+
+TODO
+
+Επεξεργασία
+-----------
+
+TODO
+
+Διαγραφή
+--------
+
+TODO
+
+
 
 ----
 
