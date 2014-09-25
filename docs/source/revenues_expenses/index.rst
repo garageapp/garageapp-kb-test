@@ -9,25 +9,25 @@
 Προβολή
 -------
 
-TODO
+.. warning:: TODO
 
 Αναζήτηση
 ---------
 
-TODO
+.. warning:: TODO
 
 Δημιουργία
 ----------
 
-TODO
+.. warning:: TODO
 
 Επεξεργασία
 -----------
 
-TODO
+.. warning:: TODO
 
 Διαγραφή
 --------
 
-TODO
+.. warning:: TODO
 

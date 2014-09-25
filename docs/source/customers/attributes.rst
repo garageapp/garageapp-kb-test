@@ -27,10 +27,10 @@
 Επεξεργασία
 -----------
 
-TODO
+.. warning:: TODO
 
 Διαγραφή
 --------
 
-TODO
+.. warning:: TODO
 
