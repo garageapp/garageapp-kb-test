@@ -6,6 +6,8 @@
     ``kb_ViewCustomerVehicle_vehicle``
     ``kb_BrowseCustomerVehicles``
 
+.. _view_vehicle:
+
 Προβολή
 -------
 
@@ -15,29 +17,81 @@
 Οχήματα όλων των πελατών
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+Για να ανοίξετε τη καρτέλα ενός οχήματος
+μπορείτε να πάτε στη κεντρική λίστα των οχημάτων
+(περιέχει όλα τα οχήματα από όλους τους πελάτες)
+είτε από την κεντρική οθόνη
+
+.. figure:: /_static/images/screen-main-vehicles.png
+
+είτε από το κεντρικό μενού
+
+.. figure:: /_static/images/screen-mainmenu-vehicles.png
+
+και να επιλέξετε το όχημα που επιθυμείτε
+
+.. figure:: /_static/images/screen-vehicles-select-and-view.png
 
 Οχήματα ενός συγκεκριμένου πελάτη
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO
+:ref:`Δείτε εδώ <view_customer_vehicle>`.
 
 Δημιουργία
 ----------
 
-Εφόσον είστε στην :ref:`οθόνη επεξεργασίας πελάτη <edit_customer>`
+Εφόσον είστε στην :ref:`οθόνη προβολής των οχημάτων κάποιου πελάτη <view_customer_vehicle>`,
+πατήστε το κουμπί "Προσθήκη"
 
-.. warning:: TODO
+.. figure:: /_static/images/screen-add-entity-button.png
+
+.. note::
+    Για περιγραφή των πεδίων
+    δείτε στη παράγραφο `"Επεξεργασία"`__
+    
+    __ entity_fields_
+
+Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
+της αποθήκευσης για να καταχωρίσετε την εγγραφή
+ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
+
+.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
+
+.. _edit_vehicle:
 
 Επεξεργασία
 -----------
 
-.. warning:: TODO
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_vehicle>`,
+πατήστε το κουμπί "Επεξεργασία"
+
+.. figure:: /_static/images/screen-edit-entity-button.png
+
+και επιλέξτε να κάνετε "Επεξεργασία" της καταχώρισης.
+
+.. figure:: /_static/images/screen-edit-entity-options-buttons-edit.png
+
+.. _entity_fields:
+
+.. warning:: TODO: να γίνει περιγραφή των πεδίων.
+
+Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
+της αποθήκευσης για να καταχωρίσετε τις αλλαγές
+ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
+
+.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
 
 Διαγραφή
 --------
 
-.. warning:: TODO
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_vehicle>`,
+πατήστε το κουμπί "Επεξεργασία"
+
+.. figure:: /_static/images/screen-edit-entity-button.png
+
+και επιλέξτε να κάνετε "Διαγραφή" της καταχώρισης.
+
+.. figure:: /_static/images/screen-edit-entity-options-buttons-delete.png
 
 Στοιχεία οχήματος
 -----------------
