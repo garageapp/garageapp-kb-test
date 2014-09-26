@@ -15,7 +15,7 @@
 Όταν ανοίγετε τη καρτέλα ενός πελάτη
 οι παρατηρήσεις του είναι άμεσα διαθέσιμες.
 
-.. figure:: /_static/images/screen-customers-remarks-view.png
+.. figure:: /_static/images/screen-entity-remarks-view.png
 
 Δημιουργία
 ----------
@@ -45,7 +45,7 @@
 
 Για να επεξεργαστείτε κάποια παρατήρηση πατήστε πάνω της
 
-.. figure:: /_static/images/screen-customers-remarks-view-select.png
+.. figure:: /_static/images/screen-entity-remarks-view-select.png
 
 και επιλέξτε να κάνετε "Επεξεργασία" της καταχώρισης.
 
@@ -66,7 +66,7 @@
 
 Για να διαγράψετε κάποια παρατήρηση πατήστε πάνω της.
 
-.. figure:: /_static/images/screen-customers-remarks-view-select.png
+.. figure:: /_static/images/screen-entity-remarks-view-select.png
 
 Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
 
