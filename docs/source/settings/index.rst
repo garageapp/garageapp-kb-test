@@ -3,9 +3,6 @@
 
 .. warning:: TODO
 
-Στοιχεία εργασίας
------------------
-
 .. toctree::
 
     summary.rst
