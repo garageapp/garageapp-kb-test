@@ -6,6 +6,12 @@
     ``kb_ViewCustomer_vehicles``
     ``kb_BrowseCustomerVehicles``
 
+.. note::
+    Σε αυτό το σημείο μη ξεχνάτε ότι
+    είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`.
+
+.. _view_customer_vehicle:
+
 Προβολή
 -------
 
@@ -41,12 +47,8 @@
 Επεξεργασία
 -----------
 
-Για να επεξεργαστείτε κάποιο όχημα πηγαίντε στη λίστα
-με τα οχήματα του εκάστοτε πελάτη και επιλέξτε το όχημα που επιθυμείτε.
-
-.. figure:: /_static/images/screen-customer-vehicles-view-select.png
-
-Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_customer_vehicle>`,
+πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
 
@@ -67,12 +69,8 @@
 Διαγραφή
 --------
 
-Για να διαγράψετε κάποιο όχημα πηγαίντε στη λίστα
-με τα οχήματα του εκάστοτε πελάτη και επιλέξτε το όχημα που επιθυμείτε.
-
-.. figure:: /_static/images/screen-customer-vehicles-view-select.png
-
-Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_customer_vehicle>`,
+πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
 

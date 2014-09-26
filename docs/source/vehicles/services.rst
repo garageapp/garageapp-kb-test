@@ -3,9 +3,9 @@
 
 :λέξεις κλειδιά:
     ``kb_AddEditCustomerVehicle_service``
-    ``kb_BrowseVehicleServices``
     ``kb_ViewCustomerVehicle_services``
-
+    ``kb_BrowseVehicleServices``
+    
 Προβολή
 -------
 

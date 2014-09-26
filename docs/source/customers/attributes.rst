@@ -5,11 +5,15 @@
     ``kb_AddEditCustomerProperty``
     ``kb_ViewCustomerProperty``
 
+.. note::
+    Σε αυτό το σημείο μη ξεχνάτε ότι
+    είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`.
+    
 Προβολή
 -------
 
-Όταν ανοίγετε έναν πελάτη για επεξεργασία οι ιδιότητές του
-είναι άμεσα διαθέσιμες.
+Όταν ανοίγετε τη καρτέλα ενός πελάτη
+οι ιδιότητές του είναι άμεσα διαθέσιμες.
 
 .. figure:: /_static/images/screen-customers-attributes-view.png
 

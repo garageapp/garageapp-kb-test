@@ -6,10 +6,13 @@
     ``kb_BrowseCustomers``
     ``kb_ViewCustomer_customers``
 
+.. _view_customer:
+
 Προβολή
 -------
 
-Μπορείτε να πάτε στη κεντρική λίστα των πελατών
+Για να ανοίξετε τη καρτέλα ενός πελάτη
+μπορείτε να πάτε στη κεντρική λίστα των πελατών
 είτε από την κεντρική οθόνη
 
 .. figure:: /_static/images/screen-main-customers.png
@@ -17,6 +20,10 @@
 είτε από το κεντρικό μενού
 
 .. figure:: /_static/images/screen-mainmenu-customers.png
+
+και να επιλέξετε τον πελάτη που επιθυμείτε
+
+.. figure:: /_static/images/screen-customers-select-and-view.png
 
 Δημιουργία
 ----------
@@ -38,15 +45,13 @@
 
 .. figure:: /_static/images/entity-edit-save-cancel-buttons.png
 
+.. _edit_customer:
+
 Επεξεργασία
 -----------
 
-Για να επεξεργαστείτε κάποιον πελάτη πηγαίντε στη κεντρική λίστα των πελατών
-και επιλέξτε τον πελάτη που επιθυμείτε.
-
-.. figure:: /_static/images/screen-customers-select-and-view.png
-
-Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
+Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`,
+πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
 
@@ -67,12 +72,8 @@
 Διαγραφή
 --------
 
-Για να διαγράψετε κάποιον πελάτη πηγαίντε στη κεντρική λίστα των πελατών
-και επιλέξτε τον πελάτη που επιθυμείτε.
-
-.. figure:: /_static/images/screen-customers-select-and-view.png
-
-Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
+Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`,
+πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
 
