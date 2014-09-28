@@ -30,12 +30,12 @@
 
 και να επιλέξετε το όχημα που επιθυμείτε
 
-.. figure:: /_static/images/screen-vehicles-select-and-view.png
+.. figure:: /_static/images/screen-vehicles-view-select.png
 
 Οχήματα ενός συγκεκριμένου πελάτη
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Δείτε εδώ <customer_vehicle_view>`.
+:ref:`Δείτε εδώ πως <customer_vehicle_view>`.
 
 Δημιουργία
 ----------

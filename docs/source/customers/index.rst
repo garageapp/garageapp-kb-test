@@ -23,7 +23,7 @@
 
 και να επιλέξετε τον πελάτη που επιθυμείτε
 
-.. figure:: /_static/images/screen-customers-select-and-view.png
+.. figure:: /_static/images/screen-customers-view-select.png
 
 Δημιουργία
 ----------

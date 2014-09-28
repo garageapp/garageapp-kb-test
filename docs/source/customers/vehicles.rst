@@ -20,7 +20,7 @@
 
 .. figure:: /_static/images/screen-customer-vehicles-view.png
 
-και στη συνέχεια επιλέξτε τον όχημα που επιθυμείτε.
+και στη συνέχεια επιλέξτε το όχημα που επιθυμείτε.
 
 .. figure:: /_static/images/screen-customer-vehicles-view-select.png
 

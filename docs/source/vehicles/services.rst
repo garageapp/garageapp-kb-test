@@ -20,7 +20,7 @@
 
 .. figure:: /_static/images/screen-vehicle-services-view.png
 
-και στη συνέχεια επιλέξτε τον όχημα που επιθυμείτε.
+και στη συνέχεια επιλέξτε την εργασία που επιθυμείτε.
 
 .. figure:: /_static/images/screen-vehicle-services-view-select.png
 
@@ -46,6 +46,8 @@
 
 .. figure:: /_static/images/entity-edit-save-cancel-buttons.png
 
+.. _vehicle_service_edit:
+
 Επεξεργασία
 -----------
 
@@ -67,6 +69,8 @@
 ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
 
 .. figure:: /_static/images/entity-edit-save-cancel-buttons.png
+
+.. _vehicle_service_delete:
 
 Διαγραφή
 --------
