@@ -6,14 +6,14 @@
     
 .. note::
     Σε αυτό το σημείο μη ξεχνάτε ότι
-    είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`.
+    είστε στη :ref:`καρτέλα κάποιου πελάτη <customer_view>`.
 
-.. _view_customer_service:
+.. _customer_service_view:
 
 Προβολή
 -------
 
-Για να δείτε τη λίστα με τις εργασίες του εκάστοτε πελάτη
+Για να δείτε τη λίστα με τις εργασίες του εκάστοτε πελάτη, για όλα τα οχήματα,
 επιλέξτε την οθόνη με τις εργασίες
 
 .. figure:: /_static/images/screen-customer-services-view.png
@@ -34,12 +34,12 @@
 
 .. figure:: /_static/images/screen-customer-vehicles-view-select.png
 
-Για τη συνέχεια δείτε :ref:`εδώ <create_vehicle_service>`.
+Για τη συνέχεια δείτε :ref:`εδώ <vehicle_service_create>`.
 
 Επεξεργασία
 -----------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <view_customer_service>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <customer_service_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
@@ -61,7 +61,7 @@
 Διαγραφή
 --------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <view_customer_service>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <customer_service_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png

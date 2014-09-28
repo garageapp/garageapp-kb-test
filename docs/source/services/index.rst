@@ -17,15 +17,22 @@
 
 .. warning:: TODO
 
+- screen-main(menu)-services.png
+
 Εργασίες ενός συγκεκριμένου οχήματος
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. warning:: TODO
 
+- customers/services.rst
+- vehicle/services.rst
+
 Δημιουργία
 ----------
 
 .. warning:: TODO
+
+- vehicle/services.rst
 
 Επεξεργασία
 -----------

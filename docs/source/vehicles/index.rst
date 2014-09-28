@@ -6,7 +6,7 @@
     ``kb_ViewCustomerVehicle_vehicle``
     ``kb_BrowseCustomerVehicles``
 
-.. _view_vehicle:
+.. _vehicle_view:
 
 Προβολή
 -------
@@ -35,12 +35,12 @@
 Οχήματα ενός συγκεκριμένου πελάτη
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:ref:`Δείτε εδώ <view_customer_vehicle>`.
+:ref:`Δείτε εδώ <customer_vehicle_view>`.
 
 Δημιουργία
 ----------
 
-Εφόσον είστε στην :ref:`οθόνη προβολής των οχημάτων κάποιου πελάτη <view_customer_vehicle>`,
+Εφόσον είστε στην :ref:`οθόνη προβολής των οχημάτων κάποιου πελάτη <customer_vehicle_view>`,
 πατήστε το κουμπί "Προσθήκη"
 
 .. figure:: /_static/images/screen-add-entity-button.png
@@ -62,7 +62,7 @@
 Επεξεργασία
 -----------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_vehicle>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <vehicle_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
@@ -84,7 +84,7 @@
 Διαγραφή
 --------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_vehicle>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <vehicle_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png

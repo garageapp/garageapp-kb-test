@@ -6,7 +6,7 @@
     ``kb_BrowseCustomers``
     ``kb_ViewCustomer_customers``
 
-.. _view_customer:
+.. _customer_view:
 
 Προβολή
 -------
@@ -50,7 +50,7 @@
 Επεξεργασία
 -----------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <customer_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
@@ -72,7 +72,7 @@
 Διαγραφή
 --------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου πελάτη <customer_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png

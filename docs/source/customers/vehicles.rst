@@ -8,9 +8,9 @@
 
 .. note::
     Σε αυτό το σημείο μη ξεχνάτε ότι
-    είστε στη :ref:`καρτέλα κάποιου πελάτη <view_customer>`.
+    είστε στη :ref:`καρτέλα κάποιου πελάτη <customer_view>`.
 
-.. _view_customer_vehicle:
+.. _customer_vehicle_view:
 
 Προβολή
 -------
@@ -47,7 +47,7 @@
 Επεξεργασία
 -----------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_customer_vehicle>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <customer_vehicle_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
@@ -69,7 +69,7 @@
 Διαγραφή
 --------
 
-Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <view_customer_vehicle>`,
+Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <customer_vehicle_view>`,
 πατήστε το κουμπί "Επεξεργασία"
 
 .. figure:: /_static/images/screen-edit-entity-button.png
