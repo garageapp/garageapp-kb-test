@@ -1,9 +1,9 @@
-Ιδιότητες
-=========
+Παρατηρήσεις
+============
 
 :λέξεις κλειδιά:
-    ``kb_AddEditVehicleServiceProperty``
-    ``kb_ViewVehicleServiceProperty``
+    ``kb_AddEditVehicleServiceRemark``
+    ``kb_ViewVehicleServiceRemark``
 
 .. note::
     Σε αυτό το σημείο μη ξεχνάτε ότι
@@ -13,26 +13,26 @@
 -------
 
 Όταν ανοίγετε τη καρτέλα μιας εργασίας
-οι ιδιότητές της είναι άμεσα διαθέσιμες.
+οι παρατηρήσεις της είναι άμεσα διαθέσιμες.
 
-.. figure:: /_static/images/screen-services-attributes-view.png
+.. figure:: /_static/images/screen-entity-remarks-view.png
 
 Δημιουργία
 ----------
 
-Για να προσθέσετε μια νέα ιδιότητα πατήστε το κουμπί "Προσθήκη"
+Για να προσθέσετε μια νέα παρατήρηση πατήστε το κουμπί "Προσθήκη"
 
 .. figure:: /_static/images/screen-add-entity-button.png
 
-και στη συνέχεια επιλέξτε να καταχωρίσετε μια νέα "Ιδιότητα".
+και στη συνέχεια επιλέξτε να καταχωρίσετε μια νέα "Παρατήρηση".
 
-.. figure:: /_static/images/screen-add-entitydetails-options-buttons-attribute.png
+.. figure:: /_static/images/screen-add-entitydetails-options-buttons-remark.png
 
 .. note::
     Για περιγραφή των πεδίων
     δείτε στη παράγραφο `"Επεξεργασία"`__
     
-    __ service_attribute_fields_
+    __ service_remark_fields_
     
 Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
 της αποθήκευσης για να καταχωρίσετε την εγγραφή
@@ -43,11 +43,15 @@
 Επεξεργασία
 -----------
 
-Για να επεξεργαστείτε κάποια ιδιότητα πατήστε πάνω της
+Για να επεξεργαστείτε κάποια παρατήρηση πατήστε πάνω της
 
-.. figure:: /_static/images/screen-services-attributes-view-select.png
+.. figure:: /_static/images/screen-entity-remarks-view-select.png
 
-.. _service_attribute_fields:
+και επιλέξτε να κάνετε "Επεξεργασία" της καταχώρισης.
+
+.. figure:: /_static/images/screen-edit-entity-options-buttons-edit.png
+
+.. _service_remark_fields:
 
 .. warning:: TODO: να γίνει περιγραφή των πεδίων.
 
@@ -60,9 +64,9 @@
 Διαγραφή
 --------
 
-Για να διαγράψετε κάποια ιδιότητα πατήστε πάνω της.
+Για να διαγράψετε κάποια παρατήρηση πατήστε πάνω της.
 
-.. figure:: /_static/images/screen-services-attributes-view-select.png
+.. figure:: /_static/images/screen-entity-remarks-view-select.png
 
 Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
 
@@ -70,5 +74,5 @@
 
 και επιλέξτε να κάνετε "Διαγραφή" της καταχώρισης.
 
-.. figure:: /_static/images/screen-edit-delete-entity-option-button.png
+.. figure:: /_static/images/screen-edit-entity-options-buttons-delete.png
 

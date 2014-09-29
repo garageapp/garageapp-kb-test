@@ -2,20 +2,20 @@
 =========
 
 :λέξεις κλειδιά:
-    ``kb_AddEditVehicleServiceProperty``
-    ``kb_ViewVehicleServiceProperty``
+    ``kb_AddEditVehicleProperty``
+    ``kb_ViewVehicleProperty``
 
 .. note::
     Σε αυτό το σημείο μη ξεχνάτε ότι
-    είστε στη :ref:`καρτέλα κάποιας εργασίας <service_view>`.
+    είστε στη :ref:`καρτέλα κάποιου οχήματος <vehicle_view>`.
     
 Προβολή
 -------
 
-Όταν ανοίγετε τη καρτέλα μιας εργασίας
-οι ιδιότητές της είναι άμεσα διαθέσιμες.
+Όταν ανοίγετε τη καρτέλα ενός οχήματος
+οι ιδιότητές του είναι άμεσα διαθέσιμες.
 
-.. figure:: /_static/images/screen-services-attributes-view.png
+.. figure:: /_static/images/screen-vehicles-attributes-view.png
 
 Δημιουργία
 ----------
@@ -32,7 +32,7 @@
     Για περιγραφή των πεδίων
     δείτε στη παράγραφο `"Επεξεργασία"`__
     
-    __ service_attribute_fields_
+    __ vehicle_attribute_fields_
     
 Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
 της αποθήκευσης για να καταχωρίσετε την εγγραφή
@@ -45,9 +45,9 @@
 
 Για να επεξεργαστείτε κάποια ιδιότητα πατήστε πάνω της
 
-.. figure:: /_static/images/screen-services-attributes-view-select.png
+.. figure:: /_static/images/screen-vehicles-attributes-view-select.png
 
-.. _service_attribute_fields:
+.. _vehicle_attribute_fields:
 
 .. warning:: TODO: να γίνει περιγραφή των πεδίων.
 
@@ -62,7 +62,7 @@
 
 Για να διαγράψετε κάποια ιδιότητα πατήστε πάνω της.
 
-.. figure:: /_static/images/screen-services-attributes-view-select.png
+.. figure:: /_static/images/screen-vehicles-attributes-view-select.png
 
 Στη συνέχεια πατήστε το κουμπί "Επεξεργασία"
 
