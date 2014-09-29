@@ -25,10 +25,6 @@
 
 .. figure:: /_static/images/screen-mainmenu-revenues_expenses.png
 
-και να επιλέξετε τον πελάτη που επιθυμείτε
-
-.. figure:: /_static/images/screen-revenues_expenses-view-select.png
-
 Αναζήτηση
 ---------
 
