@@ -32,7 +32,7 @@
     Για περιγραφή των πεδίων
     δείτε στη παράγραφο `"Επεξεργασία"`__
     
-    __ entity_fields_
+    __ vehicle_remark_fields_
     
 Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
 της αποθήκευσης για να καταχωρίσετε την εγγραφή
@@ -51,7 +51,7 @@
 
 .. figure:: /_static/images/screen-edit-entity-options-buttons-edit.png
 
-.. _entity_fields:
+.. _vehicle_remark_fields:
 
 .. warning:: TODO: να γίνει περιγραφή των πεδίων.
 
