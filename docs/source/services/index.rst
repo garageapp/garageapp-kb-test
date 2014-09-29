@@ -42,6 +42,60 @@
 
 :ref:`Δείτε εδώ πως <vehicle_service_view>`.
 
+Αναζήτηση
+---------
+
+Εκτός από γενική αναζήτηση
+
+.. figure:: /_static/images/screen-searchfield.png
+
+μπορείτε να κάνετε και εξειδικευμένη αναζήτηση πατώντας το κουμπί "Αναζήτηση"
+
+.. figure:: /_static/images/screen-search-button.png
+
+και στη συνέχεια κάνοντας μια επιλογή.
+
+.. figure:: /_static/images/screen-services-search-options.png
+
+Ημ/νία έναρξης & λήξης
+~~~~~~~~~~~~~~~~~~~~~~
+
+Για να περιορίσετε το εύρος της ημ/νίας συμπληρώστε ένα από ή/και όλα τα πεδία
+
+- "ΑΠΟ"
+- "ΕΩΣ"
+
+.. figure:: /_static/images/screen-services-search-options-datetime.png
+
+:DD: Ημέρα
+:MM: Μήνας
+:YYYY: Έτος
+
+Έσοδα
+~~~~~
+
+Για να περιορίσετε το εύρος των εσόδων συμπληρώστε ένα από ή/και όλα τα πεδία
+
+- "ΑΠΟ"
+- "ΕΩΣ"
+
+.. figure:: /_static/images/screen-services-search-options-money.png
+
+Έξοδα
+~~~~~
+
+Για να περιορίσετε το εύρος των εξόδων συμπληρώστε ένα από ή/και όλα τα πεδία
+
+- "ΑΠΟ"
+- "ΕΩΣ"
+
+.. figure:: /_static/images/screen-services-search-options-money.png
+
+Τακτικό
+~~~~~~~
+
+Επιλέξτε αν ένα service θα είναι τακτικό ή όχι.
+
 Δημιουργία
 ----------
 

@@ -40,7 +40,7 @@
 
 και στη συνέχεια κάνοντας μια επιλογή.
 
-.. figure:: /_static/images/screen_revenues_expenses-search-options.png
+.. figure:: /_static/images/screen-revenues_expenses-search-options.png
 
 Ημ/νία
 ~~~~~~
@@ -50,7 +50,7 @@
 - "ΑΠΟ"
 - "ΕΩΣ"
 
-.. figure:: /_static/images/screen_revenues_expenses-search-options-datetime.png
+.. figure:: /_static/images/screen-revenues_expenses-search-options-datetime.png
 
 :DD: Ημέρα
 :MM: Μήνας
@@ -64,14 +64,17 @@
 - "ΑΠΟ"
 - "ΕΩΣ"
 
-.. figure:: /_static/images/screen_revenues_expenses-search-options-money.png
+.. figure:: /_static/images/screen-revenues_expenses-search-options-money.png
 
 Έξοδα
 ~~~~~
 
 Για να περιορίσετε το εύρος των εξόδων συμπληρώστε ένα από ή/και όλα τα πεδία
 
-.. figure:: /_static/images/screen_revenues_expenses-search-options-money.png
+- "ΑΠΟ"
+- "ΕΩΣ"
+
+.. figure:: /_static/images/screen-revenues_expenses-search-options-money.png
 
 Δημιουργία
 ----------
