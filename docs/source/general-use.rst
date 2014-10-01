@@ -11,7 +11,7 @@
 θα πρέπει πρώτα να πιστοποιήσετε τα στοιχεία σας.
 Πιστοποίηση στοιχείων σημαίνει μόνο πιστοποίηση του email σας,
 η οποία πιστοποίηση πραγματοποιείται από την υπηρεσία
-`Mozilla Persona <https://login.persona.org/about>`_ με τρόπο απλό και ασφαλή.
+:ref:`Mozilla Persona <about_mozilla_persona>` με τρόπο απλό και ασφαλή.
 
 .. figure:: /_static/images/app-signin.png
 
