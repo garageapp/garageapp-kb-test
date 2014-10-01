@@ -24,3 +24,4 @@ GarageApp - Υποστήριξη
     analytics/index.rst
     settings/index.rst
     mozilla_persona.rst
+    contact.rst
