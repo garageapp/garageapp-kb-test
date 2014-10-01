@@ -40,33 +40,11 @@
 -----------
 
 Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <customer_service_view>`,
-πατήστε το κουμπί "Επεξεργασία"
-
-.. figure:: /_static/images/screen-edit-entity-button.png
-
-και επιλέξτε να κάνετε "Επεξεργασία" της καταχώρισης.
-
-.. figure:: /_static/images/screen-edit-entity-options-buttons-edit.png
-
-.. _entity_fields:
-
-.. warning:: TODO: να γίνει περιγραφή των πεδίων.
-
-Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
-της αποθήκευσης για να καταχωρίσετε τις αλλαγές
-ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
-
-.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
+:ref:`δείτε εδώ πως <vehicle_service_edit>`.
 
 Διαγραφή
 --------
 
 Εφόσον είστε στη :ref:`καρτέλα κάποιας εργασίας <customer_service_view>`,
-πατήστε το κουμπί "Επεξεργασία"
-
-.. figure:: /_static/images/screen-edit-entity-button.png
-
-και επιλέξτε να κάνετε "Διαγραφή" της καταχώρισης.
-
-.. figure:: /_static/images/screen-edit-entity-options-buttons-delete.png
+:ref:`δείτε εδώ πως <vehicle_service_delete>`.
 

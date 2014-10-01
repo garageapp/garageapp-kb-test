@@ -49,7 +49,7 @@
     Για περιγραφή των πεδίων
     δείτε στη παράγραφο `"Επεξεργασία"`__
     
-    __ vehicle_fields_
+    __ edit_vehicle_
 
 Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
 της αποθήκευσης για να καταχωρίσετε την εγγραφή
@@ -63,35 +63,13 @@
 -----------
 
 Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <vehicle_view>`,
-πατήστε το κουμπί "Επεξεργασία"
-
-.. figure:: /_static/images/screen-edit-entity-button.png
-
-και επιλέξτε να κάνετε "Επεξεργασία" της καταχώρισης.
-
-.. figure:: /_static/images/screen-edit-entity-options-buttons-edit.png
-
-.. _vehicle_fields:
-
-.. warning:: TODO: να γίνει περιγραφή των πεδίων.
-
-Αφού τελειώσετε με την επεξεργασία πατήστε το κουμπί
-της αποθήκευσης για να καταχωρίσετε τις αλλαγές
-ή το κουμπί της ακύρωσης για να ακυρώσετε την καταχώριση.
-
-.. figure:: /_static/images/entity-edit-save-cancel-buttons.png
+:ref:`δείτε εδώ πως <customer_vehicle_edit>`.
 
 Διαγραφή
 --------
 
 Εφόσον είστε στη :ref:`καρτέλα κάποιου οχήματος <vehicle_view>`,
-πατήστε το κουμπί "Επεξεργασία"
-
-.. figure:: /_static/images/screen-edit-entity-button.png
-
-και επιλέξτε να κάνετε "Διαγραφή" της καταχώρισης.
-
-.. figure:: /_static/images/screen-edit-entity-options-buttons-delete.png
+:ref:`δείτε εδώ πως <customer_vehicle_delete>`.
 
 Στοιχεία οχήματος
 -----------------
