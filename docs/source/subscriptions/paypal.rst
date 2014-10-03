@@ -65,11 +65,11 @@
 Επίσης, μετά την ολοκλήρωση της διαδικασίας,
 θα λάβετε και δύο ενημερωτικά email
 
-- από το PayPal σχετικά με την εγγραφή της συνδρομής
+(1) από το PayPal σχετικά με την εγγραφή της συνδρομής
 
 .. figure:: /_static/images/paypal-subscription-activation-mail-notification.png
 
-- από το GarageApp σχετικά με την ενεργοποίηση της συνδρομής
+(2) από το GarageApp σχετικά με την ενεργοποίηση της συνδρομής
 
 .. figure:: /_static/images/garageapp-subscription-activation-mail-notification.png
 
@@ -82,7 +82,7 @@
 Σε εκείνο το σημείο θα μπορείτε να :ref:`συνδεθείτε στο GarageApp <garageapp_login>`.
 
 Κατά την είσοδό σας θα σας ζητηθεί να επιλέξετε κάποιες αρχικές ρυθμίσεις,
-όπως η γλώσσα εμφάνισης της εφαρμογής.
+όπως για παράδειγμα η γλώσσα εμφάνισης της εφαρμογής.
 
 .. figure:: /_static/images/garageapp-subscription-provisioning.png
 
@@ -101,10 +101,10 @@
     ``kb_Subscriptions_PayPal_Cancel``
     
 Για να ακυρώσετε μια συνδρομή PayPal θα πρέπει,
-όπως περιγράφεται και σε `σχετικό άρθρο του PayPal <https://www.paypal.com/webapps/helpcenter/helphub/article/?solutionId=FAQ577&topicID=CANCEL_A_PAYMENT_CA&m=TCI>`_,
+όπως περιγράφεται και σε `σχετικό άρθρο <https://www.paypal.com/webapps/helpcenter/helphub/article/?solutionId=FAQ577&topicID=CANCEL_A_PAYMENT_CA&m=TCI>`_,
 
 - κατ' αρχήν να συνδεθείτε στο PayPal
-- και να επιλέξετε:
+- και εν συνεχεία να επιλέξετε:
     #. Profile
     #. My money
     #. My preapproved payments > Update
@@ -135,11 +135,11 @@
 Τέλος, μετά την ολοκλήρωση της διαδικασίας,
 θα λάβετε και δύο ενημερωτικά email
 
-- από το PayPal σχετικά με την ακύρωση της συνδρομής
+(1) από το PayPal σχετικά με την ακύρωση της συνδρομής
 
 .. figure:: /_static/images/paypal-subscription-cancellation-mail-notification.png
 
-- από το GarageApp σχετικά με την απενεργοποίηση της συνδρομής/λογαριασμού
+(2) από το GarageApp σχετικά με την απενεργοποίηση της συνδρομής/λογαριασμού
 
 .. figure:: /_static/images/garageapp-subscription-deactivation-mail-notification.png
 
