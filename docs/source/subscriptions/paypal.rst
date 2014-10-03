@@ -25,7 +25,7 @@
 .. figure:: /_static/images/paypal-login.png
 
 Αν δεν έχετε λογαριασμό PayPal θα σας ζητηθεί από το PayPal
-να δημιουργήσετε **δωρεάν** έναν λογασριασμό.
+να δημιουργήσετε **δωρεάν** έναν λογαριασμό.
 
 .. figure:: /_static/images/paypal-login-createaccount.png
 
@@ -100,5 +100,58 @@
 :λέξεις κλειδιά:
     ``kb_Subscriptions_PayPal_Cancel``
     
-TODO
+Για να ακυρώσετε μια συνδρομή PayPal θα πρέπει,
+όπως περιγράφεται και σε `σχετικό άρθρο του PayPal <https://www.paypal.com/webapps/helpcenter/helphub/article/?solutionId=FAQ577&topicID=CANCEL_A_PAYMENT_CA&m=TCI>`_,
+
+- κατ' αρχήν να συνδεθείτε στο PayPal
+- και να επιλέξετε:
+    #. Profile
+    #. My money
+    #. My preapproved payments > Update
+
+.. figure:: /_static/images/paypal-account-mymoney.png
+
+Έπειτα, στην σελίδα "My preapproved payments",
+επιλέξτε τη σχετική συνδρομή του GarageApp
+
+.. figure:: /_static/images/paypal-account-preapproved-payments.png
+
+και επιλέξτε το "Cancel", να κάνετε δηλαδή ακύρωση της συνδρομής.
+
+.. figure:: /_static/images/paypal-account-subscriptiondetails-active-cancel.png
+
+Επιβεβαιώστε την επιλογή σας αυτή
+
+.. figure:: /_static/images/paypal-account-subscription-cancel-confirmation-message.png
+
+και αμέσως η συνδρομή από "Ενεργή" ("Active")
+
+.. figure:: /_static/images/paypal-account-subscriptiondetails-active.png
+
+θα μετατραπεί σε "Ακυρωμένη" ("Canceled").
+
+.. figure:: /_static/images/paypal-account-subscription-details-cancelled.png
+
+Τέλος, μετά την ολοκλήρωση της διαδικασίας,
+θα λάβετε και δύο ενημερωτικά email
+
+- από το PayPal σχετικά με την ακύρωση της συνδρομής
+
+.. figure:: /_static/images/paypal-subscription-cancellation-mail-notification.png
+
+- από το GarageApp σχετικά με την απενεργοποίηση της συνδρομής/λογαριασμού
+
+.. figure:: /_static/images/garageapp-subscription-deactivation-mail-notification.png
+
+.. _deactivated_subscription_explanation:
+    
+.. note::
+    - Απενεργοποιημένη συνδρομή (απενεργοποιημένος λογαριασμός ουσιαστικά)
+      σημαίνει ότι μπορείτε να συνδέεστε στην εφαρμογή
+      αλλά δεν μπορείτε να κάνετε αλλαγές στα δεδομένα.
+      Έχετε δικαίωμα μόνο για ανάγνωση των δεδομένων.
+
+.. warning::
+    Μια απενεργοποιημένη συνδρομή, μετά από 3 (τρεις) μήνες
+    μπορεί οποιαδήποτε στιγμή να διαγραφεί από το σύστημά μας.
 
