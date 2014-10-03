@@ -100,6 +100,7 @@
 όπως περιγράφεται και σε `σχετικό άρθρο <https://www.paypal.com/webapps/helpcenter/helphub/article/?solutionId=FAQ577&topicID=CANCEL_A_PAYMENT_CA&m=TCI>`_,
 
 - κατ' αρχήν να συνδεθείτε στο PayPal
+
 - και εν συνεχεία να επιλέξετε:
     #. Profile
     #. My money
