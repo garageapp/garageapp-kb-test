@@ -101,7 +101,7 @@
 
 - κατ' αρχήν να συνδεθείτε στο PayPal
 
-- και εν συνεχεία να επιλέξετε:
+- και εν συνεχεία να επιλέξετε
     #. Profile
     #. My money
     #. My preapproved payments > Update
