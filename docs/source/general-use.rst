@@ -1,6 +1,8 @@
 Οδηγίες γενικής χρήσης
 ======================
 
+.. _garageapp_login:
+
 Είσοδος στην εφαρμογή
 ---------------------
 
@@ -14,6 +16,8 @@
 :ref:`Mozilla Persona <about_mozilla_persona>` με τρόπο απλό και ασφαλή.
 
 .. figure:: /_static/images/app-signin.png
+
+.. _garageapp_logout:
 
 Έξοδος από την εφαρμογή
 -----------------------

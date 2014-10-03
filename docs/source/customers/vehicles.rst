@@ -4,7 +4,6 @@
 :λέξεις κλειδιά:
     ``kb_AddEditCustomer_vehicles``
     ``kb_ViewCustomer_vehicles``
-    ``kb_BrowseCustomerVehicles``
 
 .. note::
     Σε αυτό το σημείο μη ξεχνάτε ότι

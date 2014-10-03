@@ -11,9 +11,6 @@
     ``kb_AddEditVehicleServicePropertyKeyCode``
     ``kb_BrowseVehicleServicePropertyKeyCodes``
     ``kb_ViewVehicleServicePropertyKeyCode``
-    ``kb_AddEditVehicleBrand``
-    ``kb_BrowseVehicleBrands``
-    ``kb_ViewVehicleBrand``
     ``kb_Settings_property_types``
 
 Ένας πελάτης, ένα όχημα, μια εργασία μπορεί να έχει καμία ή κάποιες ιδιότητες.
@@ -100,6 +97,11 @@
 Μάρκες
 ------
 
+:λέξεις κλειδιά:
+    ``kb_AddEditVehicleBrand``
+    ``kb_BrowseVehicleBrands``
+    ``kb_ViewVehicleBrand``
+    
 Κατά την ίδια έννοια με τους τύπους ιδιοτήτων μπορείτε να επεξεργαστείτε
 και τη λίστα με τις μάρκες των οχημάτων.
 

@@ -23,5 +23,6 @@ GarageApp - Υποστήριξη
     revenues_expenses/index.rst
     analytics/index.rst
     settings/index.rst
+    subscriptions/index.rst
     mozilla_persona.rst
     contact.rst
