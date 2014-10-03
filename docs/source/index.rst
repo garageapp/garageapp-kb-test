@@ -23,6 +23,6 @@ GarageApp - Υποστήριξη
     revenues_expenses/index.rst
     analytics/index.rst
     settings/index.rst
-    subscriptions/index.rst
+    .. subscriptions/index.rst # temporarily hiding this article; justification: PayPal subscriptions are not released yet
     mozilla_persona.rst
     contact.rst
